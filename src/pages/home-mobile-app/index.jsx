@@ -13,6 +13,7 @@ import Testimonials from '../../components/Mobile-App/Testimonials';
 import Pricing from '../../components/Mobile-App/Pricing';
 import Footer from '../../components/Footers/MobileAppFooter';
 import SecClients from '../../components/Mobile-App/Clients/clients';
+import Chart from '../../components/Mobile-App/chart/chart';
 
 const HomeMobileApp = () => {
   useEffect(() => {
@@ -51,7 +52,7 @@ const HomeMobileApp = () => {
         <SecClients />
         <Services />
         <Block />
-        
+        <Chart />
         <Block2 />
         <Pricing />
         <Testimonials />

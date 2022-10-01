@@ -9,7 +9,8 @@ const Chart = () => {
         <div style={{ marginTop: '10px'}} className=''>
           <img src='/img/third.png' />   
           <img style={{ marginTop: '10px'}} src='/img/first.png' />
-          
+          <img style={{ marginTop: '10px'}} src='/img/five.png' />
+          <img style={{ marginTop: '10px'}} src='/img/six.png' />
         </div>
       
     </div>

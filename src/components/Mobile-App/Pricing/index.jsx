@@ -10,7 +10,7 @@ const Pricing = () => {
               <h6 className="sub-head radius mb-20">
                 <span className="fz-12 ls2 text-u gr-orange-text">сорилтууд</span>
               </h6>
-              <h2>Challange</h2>
+              {/* <h2>Challange</h2> */}
             </div>
           </div>
         </div>

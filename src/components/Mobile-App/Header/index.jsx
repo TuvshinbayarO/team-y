@@ -47,7 +47,7 @@ const Header = () => {
               </h1>
               <p>Simple Secure Smart</p>
 
-              <div className="stauts flex mt-40">
+              {/* <div className="stauts flex mt-40">
                 <div className="item flex mr-20">
                   <div className="mr-15">
                     <h4>{ headerData.numbers.downloads }</h4>
@@ -64,12 +64,12 @@ const Header = () => {
                     <span className="fw-300 fz-14">AVG Rating</span>
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
           <div className="col-lg-4 offset-lg-2 order1">
             <div className="img mt-40">
-              <img src="mobile-app/img/header-app0.png" alt="" />
+              {/* <img src="mobile-app/img/header-app0.png" alt="" /> */}
             </div>
           </div>
         </div>

@@ -1,46 +1,49 @@
 [
   {
-    "plan_name": "Basic Plan",
-    "plan_price": "9.99",
-    "plan_description": "I don't want no chim pot burke tosser cras nice one boot fanny.",
+    "plan_name": "KYC",
+    "plan_price": "Орлого",
     "plan_features": [
       {
-        "title": "Marketing strategy",
+        "title": "Банкны хуулга",
         "available": true
       },
       {
-        "title": "Competitive analysis",
+        "title": "Хэрэглээний зардал",
         "available": true
       },
       {
-        "title": "Monthly management",
-        "available": false
+        "title": "Хүнс",
+        "available": true
       },
       {
-        "title": "Hosted In The Cloud",
-        "available": false
+        "title": "Цахилгааны зардал",
+        "available": true
+      },
+      {
+        "title": "Хувцас хэрэглээ",
+        "available": true
+      },
+      {
+        "title": "Эрүүл мэнд",
+        "available": true
       }
     ]
   },
   {
-    "plan_name": "Enterprise",
-    "plan_price": "29.99",
-    "plan_description": "I don't want no chim pot burke tosser cras nice one boot fanny.",
+    "plan_name": "Санхүүжилтийн боломжууд",
+    "plan_price": "0.16% - 3.13%",
+    "plan_description": "",
     "plan_features": [
       {
-        "title": "Marketing strategy",
+        "title": "European Bank for Reconstraction Development",
         "available": true
       },
       {
-        "title": "Competitive analysis",
+        "title": "Asian Development Bank",
         "available": true
       },
       {
-        "title": "Monthly management",
-        "available": true
-      },
-      {
-        "title": "Hosted In The Cloud",
+        "title": "Green Climate Fund",
         "available": true
       }
     ]

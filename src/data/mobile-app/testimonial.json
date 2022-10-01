@@ -1,44 +1,42 @@
 [
   {
-    "rating": 5,
-    "comment": "When it comes to barbequing, there are two main schools of thought for the techniques that you can use.",
-    "image": "img/testimonials/1.jpg",
-    "author": "Ryan Reynolds",
-    "position": "Customer"
+    "image": "/img/testimonials/davaa.png",
+    "author": "Э. Даваахүү",
+    "position": "CEOO"
   },
   {
-    "rating": 5,
-    "comment": "When it comes to barbequing, there are two main schools of thought for the techniques that you can use.",
-    "image": "img/testimonials/2.jpg",
-    "author": "Ryan Reynolds",
-    "position": "Customer"
+    "image": "/img/testimonials/anji.png",
+    "author": "Э. Анужин",
+    "position": "MS"
   },
   {
-    "rating": 4.5,
-    "comment": "When it comes to barbequing, there are two main schools of thought for the techniques that you can use.",
-    "image": "img/testimonials/3.jpg",
-    "author": "Ryan Reynolds",
-    "position": "Customer"
+    "image": "img/testimonials/mendee.jpg",
+    "author": "Д. Мэнд-Амар",
+    "position": "ITS"
   },
   {
-    "rating": 4.5,
-    "comment": "When it comes to barbequing, there are two main schools of thought for the techniques that you can use.",
-    "image": "img/testimonials/2.jpg",
-    "author": "Ryan Reynolds",
-    "position": "Customer"
+    "image": "img/testimonials/ashina.jpg",
+    "author": "Б. Ашина",
+    "position": "MS"
   },
   {
-    "rating": 5,
-    "comment": "When it comes to barbequing, there are two main schools of thought for the techniques that you can use.",
-    "image": "img/testimonials/1.jpg",
-    "author": "Ryan Reynolds",
-    "position": "Customer"
+    "image": "img/testimonials/gundee.jpg",
+    "author": "Т. Гүндэгмаа",
+    "position": "MS"
   },
   {
-    "rating": 4.5,
-    "comment": "When it comes to barbequing, there are two main schools of thought for the techniques that you can use.",
-    "image": "img/testimonials/3.jpg",
-    "author": "Ryan Reynolds",
-    "position": "Customer"
+    "image": "img/testimonials/Nomio.jpg",
+    "author": "Б. Номин",
+    "position": "MS"
+  },
+  {
+    "image": "img/testimonials/nandia.jpg",
+    "author": "Э. Нандин-Эрдэнэ",
+    "position": "CCS"
+  },
+  {
+    "image": "img/testimonials/tuvshoo.jpg",
+    "author": "О. Түвшинбаяр",
+    "position": "ITS"
   }
 ]

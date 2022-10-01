@@ -450,11 +450,24 @@ header .img:before {
   background: #23262d;
 }
 
+.Secclients-carsouel .line-head h6 {
+  background: #23262d;
+}
+
+
 .clients-carsouel .line-head:after {
   opacity: .2;
 }
 
+.Secclients-carsouel .line-head:after {
+  opacity: .2;
+}
+
 .clients-carsouel .item .img img {
+  max-width: 80px;
+}
+
+.Secclients-carsouel .item .img img {
   max-width: 80px;
 }
 
@@ -857,6 +870,10 @@ footer .sub-footer .links li {
     margin: 50px 0 0;
   }
   .clients-carsouel .item .cont-flex {
+    display: none;
+  }
+
+  .Secclients-carsouel .item .cont-flex {
     display: none;
   }
   .round-head h2,

@@ -29,14 +29,14 @@ const Header = () => {
   }, []);
 
   return (
-    <header className="full-height valign bg-img" style={{ backgroundImage: "url('mobile-app/img/bg-1.png')" }} data-scroll-index="0">
+    <header className="full-height valign bg-img" style={{ backgroundImage: "url('img/bg.jpg')" }} data-scroll-index="0">
       <div className="container">
         <div className="row">
           <div className="col-lg-6 valign order2">
             <div className="cont">
-              <h6 className="gr-orange-bg radius-30 fz-12 text-u ls2 mb-10">A connected wallet for a connected</h6>
+              <h6 className="gr-orange-bg radius-30 fz-12 text-u ls2 mb-10">MobiHackathon</h6>
               <h1 className="cd-headline slide mb-10">
-                <span className="d-block">Mobile banking.</span>
+                <span className="d-block">TEAM - Y</span>
                 <span className="cd-words-wrapper">
                   {
                     headerData.words.map((word, idx) => (
@@ -45,7 +45,7 @@ const Header = () => {
                   }
                 </span>
               </h1>
-              <p>A connected wallet for a connected world. By making money move more freely, for more people, for more growth.</p>
+              <p>Simple Secure Smart</p>
 
               <div className="stauts flex mt-40">
                 <div className="item flex mr-20">
@@ -53,7 +53,7 @@ const Header = () => {
                     <h4>{ headerData.numbers.downloads }</h4>
                   </div>
                   <div className="valign">
-                    <span className="fw-300 fz-14">Downloaded</span>
+                    <span className="fw-300 fz-14">лимит</span>
                   </div>
                 </div>
                 <div className="item flex">

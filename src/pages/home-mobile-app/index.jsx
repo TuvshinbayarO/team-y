@@ -12,6 +12,7 @@ import Block2 from '../../components/Mobile-App/Block2';
 import Testimonials from '../../components/Mobile-App/Testimonials';
 import Pricing from '../../components/Mobile-App/Pricing';
 import Footer from '../../components/Footers/MobileAppFooter';
+import SecClients from '../../components/Mobile-App/Clients/clients';
 
 const HomeMobileApp = () => {
   useEffect(() => {
@@ -47,11 +48,13 @@ const HomeMobileApp = () => {
       <AppLayout type="mobile-app" links={nav_links}>
         <Header />
         <Clients />
+        <SecClients />
+        <Services />
         <Block />
-        {/* <Services /> */}
+        
         <Block2 />
-        {/* <Testimonials /> */}
-        {/* <Pricing /> */}
+        <Pricing />
+        <Testimonials />
         <Footer />
       </AppLayout>
     </>

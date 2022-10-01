@@ -16,8 +16,8 @@ const Block = () => {
               <div className="fz-12 ls2 text-u mb-10">
                 <span className="gr-orange-text">Highly expertise</span>
               </div>
-              <h2 className="mb-20">We design brand, digital experience.</h2>
-              <p>Morbi sagittis hendrt nulla ultricies. Cras en diam ips elementum pretium hendrerit ultricies.</p>
+              <h2 className="mb-20">Ногоон зээл</h2>
+              <p>Бид энэ хүү </p>
 
               <ul className="check-list rest mt-20">
                 {

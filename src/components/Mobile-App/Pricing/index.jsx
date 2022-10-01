@@ -8,9 +8,9 @@ const Pricing = () => {
           <div className="col-lg-6 col-md-9">
             <div className="section-head text-center mb-80">
               <h6 className="sub-head radius mb-20">
-                <span className="fz-12 ls2 text-u gr-orange-text">Pricing</span>
+                <span className="fz-12 ls2 text-u gr-orange-text">сорилтууд</span>
               </h6>
-              <h2>A Simple Price</h2>
+              <h2>Challange</h2>
             </div>
           </div>
         </div>
@@ -26,7 +26,7 @@ const Pricing = () => {
 
                     <div className="content">
                       <div className="amount">
-                        <h3 className="full-width"><span>$</span>{ plan.plan_price }</h3>
+                        <h3 className="full-width"><span></span>{ plan.plan_price }</h3>
                       </div>
 
                       <div className="text">
@@ -47,9 +47,9 @@ const Pricing = () => {
                     </div>
 
                     <div className="order text-center rest">
-                      <a href="#0">
+                      {/* <a href="#0">
                         <span className="text-anim-two fz-12 fw-500 text-u ls2">Purchase Now</span>
-                      </a>
+                      </a> */}
                     </div>
                   </div>
                 </div>

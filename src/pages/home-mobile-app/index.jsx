@@ -40,7 +40,7 @@ const HomeMobileApp = () => {
   ]
 
   return (
-    <>
+    <div style={{ overflowX: 'hidden'}}>
       <Head>
         <title>MobiFinance</title>
       </Head>
@@ -57,7 +57,7 @@ const HomeMobileApp = () => {
         <Testimonials />
         <Footer />
       </AppLayout>
-    </>
+    </div>
   )
 }
 

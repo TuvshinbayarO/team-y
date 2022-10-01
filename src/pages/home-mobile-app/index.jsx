@@ -50,7 +50,7 @@ const HomeMobileApp = () => {
         <Header />
         <Clients />
         <SecClients />
-        <Services />
+        {/* <Services /> */}
         <Block />
         <Chart />
         <Block2 />

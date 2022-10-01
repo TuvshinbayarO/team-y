@@ -3,10 +3,12 @@ import React from 'react'
 
 const Chart = () => {
   return (
-    <div style={{height: '100vh', backgroundImage: `url('/img/second.png')`, backgroundPosition: 'center',
-    backgroundRepeat: 'no-repeat',
-    backgroundSize: 'cover'}} className=''>
+    <div className=''>
+      <div style={{height: '100vh', backgroundImage: `url('/img/second.png')`, backgroundPosition: 'center',
+      backgroundRepeat: 'no-repeat',
+      backgroundSize: 'cover'}} className=''>
 
+      </div>
     </div>
   )
 }

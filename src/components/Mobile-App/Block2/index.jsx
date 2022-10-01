@@ -33,7 +33,7 @@ const Block = () => {
               <div className="fz-12 ls2 text-u mb-10">
                 <span className="gr-orange-text">Highly expertise</span>
               </div>
-              <h2>We design brand, digital experience.</h2>
+              <h2>НОГООН ЗЭЭЛ ГЭЖ ЮУ ВЭ?</h2>
 
               <div className="tab-links mt-40">
                 <ul className="rest">

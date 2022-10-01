@@ -78,7 +78,8 @@ const Testimonials = () => {
               spaceBetween={30}
               slidesPerView={3}
               // loop={true}
-              // speed={1000}
+              speed={1000}
+              autoplay={true}
               centeredSlides={true}
               breakpoints={{
                 0: {

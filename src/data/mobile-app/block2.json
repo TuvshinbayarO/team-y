@@ -2,24 +2,24 @@
   {
     "tab": 1,
     "icon": "pe-7s-graph3",
-    "title": "Reporting & Analysis",
-    "details": "I don't want no chim pot burke tosser cras nice one boot fanny.",
+    "title": "МОБИФИНАНС",
+    "details": "GREEN FINTECH WIN-WIN санхүүжилт Ногоон эргэлт Ногоон сан",
     "image": "/img/monpay.png",
     "closed": false
   },
   {
     "tab": 2,
     "icon": "pe-7s-mouse",
-    "title": "Powerful Design",
-    "details": "I don't want no chim pot burke tosser cras nice one boot fanny.",
+    "title": "ХЭРЭГЛЭГЧ",
+    "details": "Хямд зээл Байгальд ээлтэй амьдралын хэв маяг",
     "image": "mobile-app/img/1.png",
     "closed": true
   },
   {
     "tab": 3,
     "icon": "pe-7s-lock",
-    "title": "Secure & insured",
-    "details": "I don't want no chim pot burke tosser cras nice one boot fanny.",
+    "title": "БАЙГАЛЬ ОРЧИН",
+    "details": "Нүүрстөрөгчийн ул мөр Цаг уурын өөрчлөлт Тогтвортой хөгжил",
     "image": "mobile-app/img/0.png",
     "closed": true
   }

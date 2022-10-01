@@ -10,26 +10,14 @@ const Footer = () => {
             <div className="col-lg-5 valign">
               <div className="cont pb-80">
                 <div className="fz-12 ls2 text-u mb-10">
-                  <span className="gr-orange-text">Download Monpay App</span>
+                  {/* <span className="gr-orange-text">Download Monpay App</span> */}
                 </div>
-                <h2 className="mb-20 fw-500">We available on store download now.</h2>
-                <p>Morbi sagittis hendrt nulla ultricies. Cras en diam ips elementum pretium hendrerit ultricies.</p>
-
-                <div className="download-button mt-40">
-                  <a href="#0" className="butn butn-lg butn-rounded down-butn bg-white mr-10">
-                    <span>Apple Store</span>
-                    <span className="icon ml-10"><i className="fab fa-apple"></i></span>
-                  </a>
-                  <a href="#0" className="butn butn-lg butn-rounded down-butn bord-white">
-                    <span>Goole play</span>
-                    <span className="icon ml-10"><i className="fab fa-google-play"></i></span>
-                  </a>
-                </div>
+                <h2 className="mb-20 fw-500">Анхаарал хандуулсанд баярлалаа</h2>
               </div>
             </div>
             <div className="col-lg-6 offset-lg-1 d-flex align-items-end">
               <div className="img">
-                <img src="mobile-app/img/2.png" alt="" />
+                {/* <img src="mobile-app/img/2.png" alt="" /> */}
               </div>
             </div>
           </div>
@@ -41,33 +29,14 @@ const Footer = () => {
             <div className="col-lg-3">
               <div className="md-center md-mb30">
                 <a href="#0" className="logo">
-                  <p>Logo</p>
+                  <p>TEAM - Y</p>
                 </a>
               </div>
             </div>
-            <div className="col-lg-6">
-              <div className="links text-center">
-                <ul className="rest">
-                  <li>
-                    <a href="#0" data-scroll-nav="0">Home</a>
-                  </li>
-                  <li>
-                    <a href="#0" data-scroll-nav="1">About</a>
-                  </li>
-                  <li>
-                    <a href="#0" data-scroll-nav="2">Services</a>
-                  </li>
-                  {/* <li>
-                    <Link href="/contact-arch">
-                      <a>Contact</a>
-                    </Link>
-                  </li> */}
-                </ul>
-              </div>
-            </div>
+            
             <div className="col-lg-3 d-flex justify-content-end">
               <div className="copyrights">
-                <p className="fz-14">Made By <a href="#0" className="gr-orange-text">UI-ThemeZ</a></p>
+                {/* <p className="fz-14">Made By <a href="#0" className="gr-orange-text">UI-ThemeZ</a></p> */}
               </div>
             </div>
           </div>

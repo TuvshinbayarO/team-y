@@ -1,40 +1,48 @@
 [
   {
+    "id": 1,
     "image": "/img/testimonials/davaa.png",
     "author": "Э. Даваахүү",
     "position": "CEOO"
   },
   {
+    "id": 2,
     "image": "/img/testimonials/anji.png",
     "author": "Э. Анужин",
     "position": "MS"
   },
   {
+    "id": 3,
     "image": "img/testimonials/mendee.jpg",
     "author": "Д. Мэнд-Амар",
     "position": "ITS"
   },
   {
+    "id": 4,
     "image": "img/testimonials/ashina.jpg",
     "author": "Б. Ашина",
     "position": "MS"
   },
   {
+    "id": 5,
     "image": "img/testimonials/gundee.jpg",
     "author": "Т. Гүндэгмаа",
     "position": "MS"
   },
   {
+    "id": 6,
     "image": "img/testimonials/Nomio.jpg",
     "author": "Б. Номин",
     "position": "MS"
   },
   {
+    "id": 7,
     "image": "img/testimonials/nandia.jpg",
     "author": "Э. Нандин-Эрдэнэ",
     "position": "CCS"
   },
   {
+    "id": 8,
     "image": "img/testimonials/tuvshoo.jpg",
     "author": "О. Түвшинбаяр",
     "position": "ITS"

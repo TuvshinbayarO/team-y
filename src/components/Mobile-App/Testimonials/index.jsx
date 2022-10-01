@@ -48,7 +48,7 @@ const Testimonials = () => {
                       <div className="cont flex">
                         <div className="img-flex valign">
                           <div className="img">
-                            <img src={testimonial.image} alt="" className="circle-img" />
+                            <img src={ testimonial.image} alt="" className="circle-img" />
                           </div>
                         </div>
                         <div className="info valign ml-20">

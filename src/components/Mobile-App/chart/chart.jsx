@@ -3,12 +3,15 @@ import React from 'react'
 
 const Chart = () => {
   return (
-    <div className=''>
-      <div style={{height: '100vh', backgroundImage: `url('/img/second.png')`, backgroundPosition: 'center',
-      backgroundRepeat: 'no-repeat',
-      backgroundSize: 'cover'}} className=''>
-
-      </div>
+    <div  style={{display: 'flex', flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'center'}} className=''>
+      
+        <img src='/img/second.png' />
+        <div style={{ marginTop: '10px'}} className=''>
+          <img src='/img/third.png' />   
+          <img style={{ marginTop: '10px'}} src='/img/first.png' />
+          
+        </div>
+      
     </div>
   )
 }

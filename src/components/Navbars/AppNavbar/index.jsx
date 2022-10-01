@@ -16,9 +16,9 @@ const Navbar = ({ links, navbarRef, theme, logoTheme, container }) => {
       <div className={`container${container==='nft-market' ? '-xxl':''}`}>
         <Link className="navbar-brand" href="/">
           <div className="logo">
-            { logoTheme === 'dark' &&  <p>Logo</p>}
-            { logoTheme === 'light' && <p>Logo</p> }
-            { !logoTheme && <p>Logo</p> }
+            { logoTheme === 'dark' &&  <p>TEAM - Y</p>}
+            { logoTheme === 'light' && <p>TEAM - Y</p> }
+            { !logoTheme && <p>TEAM - Y</p> }
           </div>
         </Link>
 
@@ -35,7 +35,7 @@ const Navbar = ({ links, navbarRef, theme, logoTheme, container }) => {
         </button>
 
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul className="navbar-nav">
+          {/* <ul className="navbar-nav">
             {
               links && links.length && links.map((link, idx) => (
                 <li className="nav-item" key={idx}>
@@ -43,7 +43,7 @@ const Navbar = ({ links, navbarRef, theme, logoTheme, container }) => {
                 </li>
               ))
             }
-          </ul>
+          </ul> */}
         </div>
       </div>
     </nav>

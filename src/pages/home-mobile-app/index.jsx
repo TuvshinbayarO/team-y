@@ -51,9 +51,10 @@ const HomeMobileApp = () => {
         <Clients />
         <SecClients />
         {/* <Services /> */}
-        <Block />
-        <Chart />
         <Block2 />
+        {/* <Block /> */}
+        <Chart />
+        
         <Pricing />
         <Testimonials />
         <Footer />
